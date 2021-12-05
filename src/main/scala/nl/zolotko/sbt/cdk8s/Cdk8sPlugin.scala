@@ -11,7 +11,5 @@ object Cdk8sPlugin extends AutoPlugin {
     val Cdk8s: Configuration = config("cdk8s")
   }
 
-  import autoImport.*
-
   // TODO
 }
